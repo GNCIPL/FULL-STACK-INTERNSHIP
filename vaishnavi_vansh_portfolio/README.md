@@ -31,7 +31,7 @@ This is a **simple yet elegant static website** developed using **HTML, CSS, and
 Practical1/
 ├── index.html      # Main webpage
 ├── style.css       # Styling and responsive design
-├── script.js       # JavaScript for interactivity
+├── index.js       # JavaScript for interactivity
 └── README.md       # Project documentation
 ```
 
