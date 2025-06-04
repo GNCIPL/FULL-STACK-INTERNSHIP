@@ -19,7 +19,7 @@ This is a **simple yet elegant static website** developed using **HTML, CSS, and
 ## 📁 Folder Structure
 
 ```
-Practical1/
+vaishnavi_vansh_portfolio/
 ├── index.html      # Main webpage
 ├── style.css       # Styling and responsive design
 ├── index.js       # JavaScript for interactivity
@@ -51,24 +51,6 @@ Practical1/
 
 ---
 
-## 🧪 How to Run
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/VaishnaviAsthaG/Practical1.git
-   ```
-
-2. **Navigate to the folder**
-
-   ```bash
-   cd Practical1
-   ```
-
-3. **Open in a web browser**
-   Open `index.html` manually or via Live Server in VS Code.
-
----
 
 ## 👥 Authors
 
