@@ -16,15 +16,6 @@ This is a **simple yet elegant static website** developed using **HTML, CSS, and
 
 ---
 
-## 🖼️ Website Preview
-
-
-```markdown
-![Website Preview](preview.png)
-```
-
----
-
 ## 📁 Folder Structure
 
 ```
