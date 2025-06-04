@@ -18,7 +18,6 @@ This is a **simple yet elegant static website** developed using **HTML, CSS, and
 
 ## 🖼️ Website Preview
 
-> *(Add screenshot or GIF preview below to show what your site looks like)*
 
 ```markdown
 ![Website Preview](preview.png)
