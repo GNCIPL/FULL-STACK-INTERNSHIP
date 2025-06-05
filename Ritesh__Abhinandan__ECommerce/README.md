@@ -83,11 +83,11 @@ To run the project locally:
 ## 🧑‍💻 Author
 
 **Ritesh Maurya**  
-📧 [your-email@example.com](mailto:work.riteshmauryarm07@gmail.com)  
+📧 [work.riteshmauryarm07@gmail.com](mailto:work.riteshmauryarm07@gmail.com)  
 🌐 [GitHub](https://github.com/Riteshmaurya07)
 
 **Abhinandan Gupta**  
-📧 [your-email@example.com](mailto:abhinandangupta039@gmail.com)  
+📧 [abhinandangupta039@gmail.com](mailto:abhinandangupta039@gmail.com)  
 🌐 [GitHub](https://github.com/Abhinandan151142)
 
 
