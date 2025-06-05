@@ -5,7 +5,7 @@
 ## Live Demo
 
 You can view the website here:  
-`https://your-username.github.io/the-language-lab/`  
+`https://thelanguagelab.vercel.app/`  
 
 
 ## Features
