@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9356100f-eeb6-4a50-b16a-bcc182555335)# 👟 LaceUp - Modern Shoe Store Website
+# 👟 LaceUp - Modern Shoe Store Website
 
 **LaceUp** is a stylish and fully responsive e-commerce website for a modern shoe store. Built using HTML, CSS, and JavaScript, it offers a clean user interface, trendy design, and essential features to showcase footwear products effectively.
 
@@ -64,8 +64,9 @@ To run the project locally:
 
 
 ![image](https://github.com/user-attachments/assets/542d6410-2c49-4933-9cf5-1d91a6703777)
-![image](https://github.com/user-attachments/assets/f58e8d03-ae8a-454c-a12f-de1efd0c2aa8)
 ![image](https://github.com/user-attachments/assets/050dc839-c44b-4a57-b13e-8188070f4a64)
+![image](https://github.com/user-attachments/assets/f58e8d03-ae8a-454c-a12f-de1efd0c2aa8)
+
 
 
 ---
