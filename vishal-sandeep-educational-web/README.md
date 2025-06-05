@@ -2,10 +2,12 @@
 
 **The Language Lab** is a simple and responsive educational website built using **HTML** and **CSS**. It helps users learn language skills with a clean design, basic animations, and an easy-to-use layout.
 
-## Live Demo
+  
+## 🌍 Live Site
 
-You can view the website here:  
-`https://thelanguagelab.vercel.app/`  
+You can view the website here:
+
+🔗 [View Website](https://thelanguagelab.vercel.app/) 
 
 
 ## Features
