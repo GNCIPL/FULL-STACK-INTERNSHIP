@@ -6,6 +6,12 @@ This is a **simple yet elegant static website** developed using **HTML, CSS, and
 
 ---
 
+## 🌍 Live Site
+
+🔗 [View Website](https://vaishnavi-vansh-portfolio.vercel.app/)
+
+---
+
 ## ✨ Key Features
 
 * ✅ **Responsive Layout** – Optimized for desktop, tablet, and mobile screens using CSS media queries.
@@ -13,12 +19,6 @@ This is a **simple yet elegant static website** developed using **HTML, CSS, and
 * 🌟 **Image Hover Effects** – Smooth fade-in/out transition effects when hovering over images.
 * 💬 **Testimonial Slider** – Displays rotating user testimonials with JavaScript interaction.
 * 🎨 **Clean UI Design** – Clean, minimalistic layout using modern CSS techniques.
-
----
-
-## 🌍 Live Site
-
-🔗 [View Website](https://vaishnavi-vansh-portfolio.vercel.app/)
 
 ---
 
