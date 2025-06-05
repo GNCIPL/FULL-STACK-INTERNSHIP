@@ -38,10 +38,14 @@ the-language-lab/
 ```
 ---
 
-**Screenshots**
+                                            
+                                                  **Screenshots**
 ![Screenshot 2025-06-05 123154](https://github.com/user-attachments/assets/427e084d-7f2b-4fd8-9937-52263b23fd37)
+
 ![Screenshot 2025-06-05 123356](https://github.com/user-attachments/assets/76274615-ff82-4d25-9927-9ef8594e1abd)
+
 ![Screenshot 2025-06-05 123226](https://github.com/user-attachments/assets/c6985aa7-a053-4bcd-9b3a-28c720799370)
+
 ![Screenshot 2025-06-05 123251](https://github.com/user-attachments/assets/47230fec-6ca2-4190-ac5a-b46851ac6798)
 
 
