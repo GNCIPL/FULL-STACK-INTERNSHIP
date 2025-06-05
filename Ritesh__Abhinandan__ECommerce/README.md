@@ -5,7 +5,6 @@
 ## 🌍 Live Site
 
 🔗 [View Website](https://your-live-link.com)  
-_Replace with your actual deployed URL_
 
 ---
 
@@ -38,8 +37,6 @@ laceup/
 ├── assets/             # Images and icons
 ├── css/
 │   └── styles.css      # Main stylesheet
-├── js/
-│   └── script.js       # JavaScript for interactivity
 ├── index.html          # Main webpage
 └── README.md           # Project documentation
 ```
@@ -52,7 +49,7 @@ To run the project locally:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/laceup.git
+   git clone [https://github.com/yourusername/laceup.git](https://github.com/GNCIPL/FULL-STACK-INTERNSHIP/tree/main/Ritesh__Abhinandan__ECommerce)
    cd laceup
    ```
 
