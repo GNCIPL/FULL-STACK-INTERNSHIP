@@ -25,12 +25,12 @@ CozyBeans Café is a conceptual café brand, and this website serves as its digi
 ## 📁 Folder Structure
 cozybeans-cafe/
 │
-├── index.html # Main HTML file
-├── style.css # Linked CSS styles
-├── images/ # Folder for all images
-│ ├── background.jpg # Background image
-│ └── ... # Other images used
-└── README.md # Project description
+├── index.html    # Main HTML file
+├── style.css     # Linked CSS styles
+├── images/       # Folder for all images
+│ ├── background.jpg     # Background image
+│ └── ...       # Other images used
+└── README.md     # Project description
 
 ## 🛠️ Technologies Used
 
