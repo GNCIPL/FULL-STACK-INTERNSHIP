@@ -1,0 +1,316 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  color: #0d1b2a;
+  background-color: #f2f9ff;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #433232;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #6F4E37;
+}
+
+
+.container {
+  width: 100%;
+  background-color:#6F4E37;
+  max-width: 2000px;
+  margin: auto;
+}
+
+header {
+  background-color: #fff4e6;
+  padding: 20px 0;
+  border-bottom: 1px solid #e2dcd5;
+}
+header .logo {
+  height: 50px;
+}
+nav ul {
+  background-color: burlywood;
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  padding: 10px 0;
+}
+nav ul li {
+  display: inline;
+}
+
+.hero {
+  background: url('bg.jpg') center/cover no-repeat;
+  color:white;
+  text-align: center;
+  padding: 150px 150px;
+  transition: background 0.3s ease;
+}
+
+.hero:hover {
+  filter: brightness(1.05);
+}
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+.hero p {
+  font-size: 20px;
+}
+
+.section {
+  padding: 20px 10px;
+  text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.section:hover {
+  background-color: #fff8ee;
+  transform: scale(1.02);
+}
+
+.section h2 {
+  background-color: #fff8ee;
+  transform: scale(1.02);
+}
+
+.section h2 {
+  margin-bottom: 20px;
+  font-size: 32px;
+  position: relative;
+  display: inline;
+}
+
+.section h2::after {
+  content: '';
+  position: absolute;
+  width: 60%;
+  height: 3px;
+  background-color: #6F4E37; /* Matches your cafe theme */
+  left: 0;
+  bottom: -8px;
+  transition: width 0.3s ease;
+}
+
+.section h2:hover::after {
+  width: 100%;
+}
+
+
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.about-image {
+  width: 80%;
+  max-width: 500px;
+  margin-top: 20px;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.about-image:hover {
+  transform: scale(1.05);
+}
+.menu-items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: 20px;
+  padding: 20px
+}
+.menu-item {
+  width: 250px;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  text-align: center
+}
+
+.menu-item:hover {
+  background-color: #f0e6da;
+  border-radius: 10px;
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.menu-item img:hover {
+  transform: scale(1.05);
+}
+
+.menu-item h3 {
+  margin-top: 10px;
+}
+
+.gallery {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.gallery img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+
+.contact form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 500px;
+  margin: auto;
+}
+.contact input,
+.contact textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s ease;
+}
+
+.contact input:hover,
+.contact textarea:hover {
+  border-color: #6F4E37;
+}
+
+.contact button {
+  padding: 10px;
+  background-color: #6b4f4f;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+footer {
+  background-color: #eee;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+footer:hover {
+  background-color: #ddd;
+}
+
+/* ---------- Responsive Styling ---------- */
+
+@media (max-width: 1024px) {
+  .hero {
+    padding: 100px 50px;
+  }
+
+  .menu-items {
+    flex-wrap: wrap;
+  }
+
+  .menu-item {
+    width: 45%;
+  }
+
+  .gallery img {
+    width: 45%;
+  }
+}
+
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .hero {
+    padding: 60px 20px;
+  }
+
+  .hero h1 {
+    font-size: 32px;
+  }
+
+  .hero h2 {
+    font-size: 18px;
+  }
+
+  .menu-item {
+    width: 100%;
+  }
+
+  .gallery img {
+    width: 100%;
+  }
+
+  .about-image {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 10px;
+  }
+
+  .section h2 {
+    font-size: 24px;
+  }
+
+  .hero {
+    padding: 40px 10px;
+  }
+
+  nav ul {
+    padding: 10px 0;
+  }
+
+  .contact form {
+    width: 100%;
+    padding: 0 10px;
+  }
+}
+@media (max-width: 360px) {
+  .hero h1 {
+    font-size: 24px;
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+
+  .menu-item h3 {
+    font-size: 16px;
+  }
+
+  footer {
+    font-size: 12px;
+  }
+}
+
+
+
