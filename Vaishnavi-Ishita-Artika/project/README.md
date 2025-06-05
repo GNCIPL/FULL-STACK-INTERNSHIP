@@ -64,8 +64,11 @@ Feel free to connect on LinkedIn or GitHub!
 
 HERE'S HOW OUR WEBSITE LOOKS:
 ![Screenshot 2025-06-05 114627](https://github.com/user-attachments/assets/308571a1-0afb-4483-b614-341ad4f9d67c)
+
 ![Screenshot 2025-06-05 114656](https://github.com/user-attachments/assets/51a990e5-7ae9-49bd-bee5-de3f9f44dfcd)
+
 ![Screenshot 2025-06-05 114711](https://github.com/user-attachments/assets/72d046ea-bc3a-473c-9f3b-7e45d583269c)
+
 ![Screenshot 2025-06-05 114725](https://github.com/user-attachments/assets/caf1d0e5-82d4-4f5d-bac9-ef506a8ee782)
 
 
