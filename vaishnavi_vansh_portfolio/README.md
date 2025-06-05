@@ -16,6 +16,12 @@ This is a **simple yet elegant static website** developed using **HTML, CSS, and
 
 ---
 
+## 🌍 Live Site
+
+🔗 [View Website](https://vaishnavi-vansh-portfolio.vercel.app/)
+
+---
+
 ## 📁 Folder Structure
 
 ```
