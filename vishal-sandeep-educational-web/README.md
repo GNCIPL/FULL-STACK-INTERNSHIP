@@ -62,12 +62,12 @@ This project is open source under the MIT License.
 👤 **Vishal Rai**
 
 - GitHub: [@rai0vishal](https://github.com/rai0vishal)  
-- Email: (mailto:raivishal2121@gmail.com)
+- Email: raivishal2121@gmail.com
   
 👤 **Sandeep Kumar Yadav**
 
 - GitHub: [@sandeepkumaryadav05](https://github.com/sandeepkumaryadav05)
-- Email: (mailto:sandeepyadav051003@gmail.com)
+- Email: sandeepyadav051003@gmail.com
 
 
   
