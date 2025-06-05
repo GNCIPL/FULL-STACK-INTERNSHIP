@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+</head>
+<body>
+  <header>
+    <div class="logo"><span>L</span>aceUp</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="icons">
+      <i class="fas fa-search" aria-label="Search"></i>
+      <i class="fas fa-user" aria-label="User"></i>
+      <i class="fas fa-heart" aria-label="Wishlist"><span class="badge">5</span></i>
+      <i class="fas fa-shopping-bag" aria-label="Cart"><span class="badge">4</span></i>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-text">
+        <h2>New Summer</h2>
+        <h1>Shoes Collection</h1>
+        <p>Competently expedite alternative benefits whereas leading-edge catalysts for change.</p>
+        <a href="#" class="btn">Shop Now →</a>
+      </div>
+     
+    </section>
+
+    <section class="collections">
+      <div class="collection-card men">
+        <h3>MEN COLLECTIONS</h3>
+        <img src="/assets/MenShoes.png" alt="Men's Shoes">
+        <a href="#" class="outline-btn">Explore All →</a>
+      </div>
+      <div class="collection-card women">
+        <h3>WOMEN COLLECTIONS</h3>
+        <img src="/assets/WomenShoes.png" alt="Women's Shoes">
+        <a href="#" class="outline-btn">Explore All →</a>
+      </div>
+      <div class="collection-card sports">
+        <h3>SPORTS COLLECTIONS</h3>
+        <img src="/assets/SportsShoes.png" alt="Sports Shoes">
+        <a href="#" class="outline-btn">Explore All →</a>
+      </div>
+    </section>
+
+    <div id="products"></div>
+   
+  </main>
+
+   <div id="footer"></div>
+    <script>
+    fetch('products.html')
+      .then(res => res.text())
+      .then(html => { document.getElementById('products').innerHTML = html; });
+  </script>
+  
+  <script>
+    fetch('footer.html')
+      .then(res => res.text())
+      .then(html => { document.getElementById('footer').innerHTML = html; });
+  </script>
+</body>
+</html>
