@@ -4,7 +4,7 @@
 
 ## 🌍 Live Site
 
-🔗 [View Website](https://laceup-fqrlnwym7-riteshmaurya07s-projects.vercel.app/)  
+🔗 [View Website](https://laceup-one.vercel.app/)  
 
 ---
 
