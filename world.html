@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World News</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #222;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #444;
+        }
+        .hero {
+            text-align: center;
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url('world-news.jpg');
+            background-size: cover;
+            color: white;
+            padding: 50px 20px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .news-card {
+            background: white;
+            padding: 20px;
+            margin: 15px;
+            border-radius: 5px;
+            box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .news-card img {
+            width: 100%;
+            border-radius: 5px;
+        }
+        .news-card h3 {
+            margin: 10px 0;
+        }
+        .news-card p {
+            text-align: left;
+            font-weight: bold;
+        }
+        .read-more {
+            display: inline-block;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+        .read-more:hover {
+            background-color: #0056b3;
+        }
+        footer {
+            text-align: center;
+            background-color: #222;
+            color: white;
+            padding: 15px;
+            margin-top: 20px;
+        }
+        @media (max-width: 768px) {
+            .container {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>World News</h1>
+        <p>Latest updates from around the globe.</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="world.html">World</a>
+        <a href="politics.html">Politics</a>
+        <a href="sports.html">Sports</a>
+    </nav>
+    <section class="hero">
+        <h2>Breaking Global News</h2>
+        <p>Stay informed with the latest international headlines.</p>
+    </section>
+    <div class="container">
+        <div class="news-card">
+            <img src="https://tse4.mm.bing.net/th?id=OIF.ysztVlA7%2fXVjlxdX9K%2bsEA&pid=Api&P=0&h=180" alt="Global News">
+            <h3>Major Event</h3>
+            <p>🌍 <strong>Global Headlines</strong><br>
+            Ukraine's Deep Strike Damages Russian Bombers<br>
+            Ukraine’s “Operation Spiderweb” targeted Russian military bases, damaging at least 13 aircraft in a bold drone assault deep within Russian territory.<br>
+            washingtonpost.com<br><br>
+            Gaza Aid Suspended Amid Combat Zone Warnings<br>
+            The U.S.-backed Gaza Humanitarian Foundation paused aid deliveries for a full day after the Israeli military declared access roads to distribution sites as “combat zones.”<br>
+            aljazeera.com<br>
+            +1 news.sky.com<br><br>
+            Dutch Politics in Turmoil as Far-Right Leader Exits Coalition<br>
+            Geert Wilders, leader of the far-right Party for Freedom, withdrew his party from the ruling coalition, plunging Dutch politics into uncertainty.<br>
+            pbs.org<br><br>
+            Zelenskyy Replaces Ukraine's Army Chief Amid War Reforms<br>
+            Ukrainian President Volodymyr Zelenskyy appointed Major General Andrii Hnatov as the new Army Chief, signaling strategic military changes during the ongoing conflict.<br>
+            newkerala.com<br>
+            +1 indiatoday.in<br><br>
+            Poland Schedules Confidence Vote for June 11<br>
+            The Polish parliament will hold a vote of confidence next Wednesday after an opposition-backed nationalist candidate defied polls to win the presidency.</p>
+            <a href="politics.html" class="read-more">Read More</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 News Media | Follow us for global updates</p>
+    </footer>
+</body>
+</html>
