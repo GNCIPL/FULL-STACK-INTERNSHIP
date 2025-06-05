@@ -48,8 +48,8 @@ Improve accessibility and SEO
 Deploy via GitHub Pages or Netlify
 
 ✍ Author
-Vaishnavi Singh- [GitHub: Vaishnavi0514](https://github.com/Vaishnavi0514)
-Ishita Sharma- [GitHub: Ishitaa19](https://github.com/Ishitaa19)
+Vaishnavi Singh- [GitHub: Vaishnavi0514](https://github.com/Vaishnavi0514)|
+Ishita Sharma- [GitHub: Ishitaa19](https://github.com/Ishitaa19)|
 Artika
 Web Developer | Frontend Enthusiast
 Feel free to connect on LinkedIn or GitHub!
