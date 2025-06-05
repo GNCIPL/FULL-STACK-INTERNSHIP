@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sports News</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background-color: #008000;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      background-color: #222;
+      padding: 10px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      padding: 10px 20px;
+    }
+
+    nav a:hover {
+      background-color: #444;
+    }
+
+    .hero {
+      text-align: center;
+      background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url('sports.jpg');
+      background-size: cover;
+      background-position: center;
+      color: white;
+      padding: 50px 20px;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .news-card {
+      background: white;
+      padding: 20px;
+      margin: 15px 0;
+      border-radius: 5px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+
+    .news-card img {
+      width: 100%;
+      border-radius: 5px;
+      height: auto;
+    }
+
+    .news-card h3 {
+      margin: 10px 0;
+    }
+
+    .news-card p {
+      text-align: justify;
+      line-height: 1.6;
+    }
+
+    .read-more {
+      display: inline-block;
+      padding: 10px;
+      background-color: #ff4500;
+      color: white;
+      text-decoration: none;
+      margin-top: 10px;
+      border-radius: 5px;
+    }
+
+    .read-more:hover {
+      background-color: #cc3700;
+    }
+
+    footer {
+      text-align: center;
+      background-color: #222;
+      color: white;
+      padding: 15px;
+      margin-top: 20px;
+    }
+
+    @media (max-width: 600px) {
+      .hero {
+        padding: 30px 10px;
+      }
+
+      nav a {
+        padding: 8px 10px;
+        font-size: 14px;
+      }
+
+      .read-more {
+        padding: 8px 12px;
+        font-size: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sports News</h1>
+    <p>Stay updated with the latest sports highlights.</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="world.html">World</a>
+    <a href="politics.html">Politics</a>
+    <a href="sports.html">Sports</a>
+  </nav>
+
+  <section class="hero">
+    <h2>Game Highlights & Updates</h2>
+    <p>Follow all the latest scores, tournaments, and sports events.</p>
+  </section>
+
+  <div class="container">
+    <div class="news-card">
+      <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/10/top-ten-sport-news-eng-3-1698639645.jpg" alt="Sports News">
+      <h3>Championship Results</h3>
+      <p>
+        🏏 <strong>RCB Clinches Maiden IPL Title:</strong> Royal Challengers Bengaluru secured their first Indian Premier League title after defeating Punjab Kings by 6 runs. Krunal Pandya was named Player of the Match.
+        <br><br>
+        🏆 <strong>Victory Parade:</strong> A grand victory parade will be held in Bengaluru today from Vidhana Soudha to M. Chinnaswamy Stadium.
+        <br><br>
+        🏏 <strong>England vs West Indies:</strong> England swept the ODI series 3–0, with Joe Root emerging as the Player of the Series.
+        <br><br>
+        🏉 <strong>Rugby Premier League Launch:</strong> India’s first Rugby Premier League began June 1 at Mumbai Football Arena featuring six teams and global stars.
+      </p>
+      <a href="index.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 News Media | Stay connected with sports updates</p>
+  </footer>
+</body>
+</html>
