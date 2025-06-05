@@ -4,7 +4,7 @@
 
 ## 🌍 Live Site
 
-🔗 [View Website](https://laceup-one.vercel.app/)  
+🔗 [View Website](https://laceup-nv42.vercel.app/)  
 
 ---
 
