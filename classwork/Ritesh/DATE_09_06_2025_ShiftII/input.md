@@ -1,0 +1,10 @@
+#ScreenShots of Input
+![image](https://github.com/user-attachments/assets/fee9a6b1-16dd-40f5-abe8-81750200b36e)
+![image](https://github.com/user-attachments/assets/68350f21-7226-4e0b-a949-ea4e0978f538)
+![image](https://github.com/user-attachments/assets/e06eaae5-5212-4943-b03d-c2440b511a72)
+![image](https://github.com/user-attachments/assets/9ccd7b38-554e-48fd-914a-9d1c42bbae76)
+![image](https://github.com/user-attachments/assets/5d10d8a5-00d5-45e2-bc05-e96410b33859)
+![image](https://github.com/user-attachments/assets/008e8c24-d35b-42ac-8add-a25bae643eb0)
+![image](https://github.com/user-attachments/assets/d63ee580-9813-43ac-9900-0bd43f86cf24)
+![image](https://github.com/user-attachments/assets/4648651b-5ebd-464b-b3fe-42e8908f7b39)
+![image](https://github.com/user-attachments/assets/cc9d5496-bc44-43d6-81f9-6b6d3268a218)
