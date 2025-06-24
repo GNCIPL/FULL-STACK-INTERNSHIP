@@ -1,0 +1,42 @@
+footer {
+    background: #ffffff;
+    color: #181616;
+    padding: 24px 0;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 40px;
+}
+
+.footer-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.footer-content p {
+    margin: 0 0 12px 0;
+    font-weight: 500;
+}
+
+.social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.social-links li {
+    display: inline-block;
+}
+
+.social-links a {
+    color: #161515;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.2s;
+}
+
+.social-links a:hover {
+    color: #1da1f2; /* Twitter blue as highlight */
+}
